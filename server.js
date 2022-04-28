@@ -5,7 +5,6 @@ app.use(express.static(__dirname + '/../client/dist'));
 
 app.use(express.json());
 app.get('/', (req, res) => {
-    console.log('yo wtf')
   res.send('Hello World!')
 })
 
