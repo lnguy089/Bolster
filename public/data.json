@@ -1,0 +1,41 @@
+[
+    {
+        "ID": "DHL",
+        "clean": "dhl-clean.png",
+        "phish": "dhl-phish.png"
+    } ,
+    {
+        "ID": "Dropbox",
+        "clean": "dropbox-clean.png",
+        "phish": "dropbox-phish.png"
+    },
+    {
+        "ID": "Instagram",
+        "clean": "instagram-clean.png",
+        "phish": "instagram-phish.png"
+    },
+    {
+        "ID": "Linkedin",
+        "clean": "linkedin-clean.png",
+        "phish": "linkedin-phish.png"
+    },
+    {
+        "ID": "Match",
+        "clean": "match-clean.png",
+        "phish": "match-phish.png"
+    },
+    {
+        "ID": "Microsoft",
+        "clean": "microsoft-clean.png",
+        "phish": "microsoft-phish.png"
+    }, 
+    {
+        "ID": "Netflix",
+        "clean": "netflix-clean.png",
+        "phish": "netflix-phish.png"
+    },
+    {
+        "ID": "Paypal",
+        "clean": "paypal-clean.png"
+    }
+]
